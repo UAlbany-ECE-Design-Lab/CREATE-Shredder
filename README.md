@@ -28,17 +28,20 @@ full and then easily remove it to get the shredded paper out.
 ![gaylordCover](https://user-images.githubusercontent.com/94560718/143475968-44d21cc6-298b-4956-810a-f37e89c8d367.png)
 
 4.We use a 14/3 NM-B WG Romex Wire/Cable due to the fact that we are using a 3 phase motor/blower. This ware has three conductors and a neutral wire. The function of neutral wire in 3 phase 4 wire system is to serve as a return wire for general domestic supply system. The neutral is paired to each of the single phase load. The potential of the neutral point can be very well understood from the following Figure. The total neutral current is the vector sum of the three line currents. Under balanced conditions the vector sum is zero and therefore, the neutral current is zero
+
 ![purpose-of-neutral-wire-in-three-pahse](https://user-images.githubusercontent.com/94560718/143479185-fb4dca6e-e3ff-4286-8036-4c1b1f70b899.png)
 ![Wiring](https://user-images.githubusercontent.com/94560718/143479221-ade46860-dc00-447b-940e-9b7b327516f5.jpg)
 
+5.The plug in is adapted to the needs of the system and is a 
 
 ## Software Dependencies
 For the moment we are not using any software dependencies, later on we might include a sensor to detect when to run the whole system, but for now no software has been used.
 
 ## Steps Required to Replicate your Work. List the steps required to replicate your work
-1. Briefly describe step one
-2. Briefly describe step two
-3. Additional steps 
+1. Wire the motor to be in low voltage mode by connecting T7 and T1 in line 1, T8 and T2 in line 2 and T9 and T3 in line 3.
+2. Wire the different components together, the plug in with the switch and the switch with the motor.
+3. Set up the pipeline system between the motor and the two bins, the one under the shredder and the one that will leave the building.
+
 ![SystemOverview](https://user-images.githubusercontent.com/94560718/143473394-fbb5a34b-46f3-4d57-92eb-e5e778e8988c.png)
 
 ## Instruction Video: 
