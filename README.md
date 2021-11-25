@@ -17,6 +17,13 @@ push nearly 560 CFM which should be plenty for our application
 functionality we are looking for our system. Once pressed On it maintains like that until we press the Off button.
 ![Switch](https://user-images.githubusercontent.com/94560718/143475406-b4c95b56-3b19-47a3-9a57-f8a15fa55bb0.jpg)
 
+3.We use a MODEL GN3442 GAYLORD COVER because the goal of the system designed in this project is to get the shredded paper
+automatically into the big brown box provided by the mailing service company. In order to do
+that, we require this component because the whole system works around a motor/blower
+that creates wind gusts that would make kind of sloppy the whole movement of the paper.
+This device provides a specific and convenient solution, covering the box and just letting the
+tube with the shredded paper have access to it. This way, we use the cover until the box is
+full and then easily remove it to get the shredded paper out.
 
 
 
