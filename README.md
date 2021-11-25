@@ -4,6 +4,7 @@ This ReadMe file uses Markdown formating.  Helpful cheat sheet is available here
 
 ## Hardware Dependencies
 What hardware is required to replicate your work? Include links to specific equipment when possible
+![alt text](SystemOverview.jpg)
 
 ## Software Dependencies
 For the moment we are not using any software dependencies, later on we might include a sensor to detect when to run the whole system, but for now no software has been used.
