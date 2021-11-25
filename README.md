@@ -13,7 +13,9 @@ phase electric motor that can spin upwards of 3500 RPM. With our system, we plan
 push nearly 560 CFM which should be plenty for our application
 ![Motor](https://user-images.githubusercontent.com/94560718/143474750-30389b5a-9629-48b6-986f-c4caeea1bac9.jpeg)
 
-2. 
+2. We use a 3 Phase 30A 3.7KW Maintained Self Lock On/Off Power Pushbutton Switch. It has ideal specifications to deal with the power needed by the motor and has the perfect 
+functionality we are looking for our system. Once pressed On it maintains like that until we press the Off button.
+
 
 
 
