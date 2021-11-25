@@ -28,7 +28,8 @@ full and then easily remove it to get the shredded paper out.
 ![gaylordCover](https://user-images.githubusercontent.com/94560718/143475968-44d21cc6-298b-4956-810a-f37e89c8d367.png)
 
 4.We use a 14/3 NM-B WG Romex Wire/Cable due to the fact that we are using a 3 phase motor/blower. This ware has three conductors and a neutral wire. The function of neutral wire in 3 phase 4 wire system is to serve as a return wire for general domestic supply system. The neutral is paired to each of the single phase load. The potential of the neutral point can be very well understood from the following Figure. The total neutral current is the vector sum of the three line currents. Under balanced conditions the vector sum is zero and therefore, the neutral current is zero
-
+![purpose-of-neutral-wire-in-three-pahse](https://user-images.githubusercontent.com/94560718/143479185-fb4dca6e-e3ff-4286-8036-4c1b1f70b899.png)
+![Wiring](https://user-images.githubusercontent.com/94560718/143479221-ade46860-dc00-447b-940e-9b7b327516f5.jpg)
 
 
 ## Software Dependencies
