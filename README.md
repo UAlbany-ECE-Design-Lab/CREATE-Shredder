@@ -15,6 +15,7 @@ push nearly 560 CFM which should be plenty for our application
 
 2. We use a 3 Phase 30A 3.7KW Maintained Self Lock On/Off Power Pushbutton Switch. It has ideal specifications to deal with the power needed by the motor and has the perfect 
 functionality we are looking for our system. Once pressed On it maintains like that until we press the Off button.
+![Switch](https://user-images.githubusercontent.com/94560718/143475406-b4c95b56-3b19-47a3-9a57-f8a15fa55bb0.jpg)
 
 
 
