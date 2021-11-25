@@ -6,7 +6,7 @@ This ReadMe file uses Markdown formating.  Helpful cheat sheet is available here
 What hardware is required to replicate your work? Include links to specific equipment when possible
 
 ## Software Dependencies
-What software is required to replicate your work? Include links to specific equipment when possible.
+For the moment we are not using any software dependencies, later on we might include a sensor to detect when to run the whole system, but for now no software has been used.
 
 ## Steps Required to Replicate your Work. List the steps required to replicate your work
 1. Briefly describe step one
