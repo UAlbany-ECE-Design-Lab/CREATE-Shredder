@@ -24,7 +24,9 @@ that creates wind gusts that would make kind of sloppy the whole movement of the
 This device provides a specific and convenient solution, covering the box and just letting the
 tube with the shredded paper have access to it. This way, we use the cover until the box is
 full and then easily remove it to get the shredded paper out.
+![gaylordCover](https://user-images.githubusercontent.com/94560718/143475968-44d21cc6-298b-4956-810a-f37e89c8d367.png)
 
+4.
 
 
 
