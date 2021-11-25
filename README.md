@@ -34,6 +34,10 @@ full and then easily remove it to get the shredded paper out.
 
 5.The plug in is adapted to the needs of the system and is a 
 
+![plugIn](https://user-images.githubusercontent.com/94560718/143480612-138028ed-a5f9-469e-87b5-fd4f03b79a28.jpg)
+
+
+
 ## Software Dependencies
 For the moment we are not using any software dependencies, later on we might include a sensor to detect when to run the whole system, but for now no software has been used.
 
