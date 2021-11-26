@@ -32,7 +32,7 @@ full and then easily remove it to get the shredded paper out.
 ![purpose-of-neutral-wire-in-three-pahse](https://user-images.githubusercontent.com/94560718/143479185-fb4dca6e-e3ff-4286-8036-4c1b1f70b899.png)
 ![Wiring](https://user-images.githubusercontent.com/94560718/143479221-ade46860-dc00-447b-940e-9b7b327516f5.jpg)
 
-5.The plug in is adapted to the needs of the system and is a 
+5.The plug in is adapted to the needs of the system and is a 20A, 3 pahse and 4 wiring black and white plug in with a capacity of 125/250V.
 
 ![plugIn](https://user-images.githubusercontent.com/94560718/143480612-138028ed-a5f9-469e-87b5-fd4f03b79a28.jpg)
 
