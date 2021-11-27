@@ -49,6 +49,5 @@ For the moment we are not using any software dependencies, later on we might inc
 ![SystemOverview](https://user-images.githubusercontent.com/94560718/143473394-fbb5a34b-46f3-4d57-92eb-e5e778e8988c.png)
 
 ## Instruction Video: 
-Create a short video that shows the steps necessary to set-up your environment and replicate
-the work that you have completed. If necessary, separate these steps into multiple short videos. Post on
-YouTube and include the links on your GitHub repository
+
+https://youtu.be/U0EcFULasiU
