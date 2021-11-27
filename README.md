@@ -48,6 +48,8 @@ For the moment we are not using any software dependencies, later on we might inc
 
 ![SystemOverview](https://user-images.githubusercontent.com/94560718/143473394-fbb5a34b-46f3-4d57-92eb-e5e778e8988c.png)
 
+![image-20211126-202445-623c1d84](https://user-images.githubusercontent.com/94560718/143723107-80bd5f9a-d21e-4792-90ea-0aa1bde5e641.jpeg)
+
 ## Instruction Video: 
 
 https://youtu.be/U0EcFULasiU
