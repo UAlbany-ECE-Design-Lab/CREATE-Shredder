@@ -43,7 +43,7 @@ For the moment we are not using any software dependencies, later on we might inc
 
 ## Steps Required to Replicate your Work. List the steps required to replicate your work
 1. Wire the motor to be in low voltage mode by connecting T7 and T1 in line 1, T8 and T2 in line 2 and T9 and T3 in line 3.
-2. Wire the different components together, the plug in with the switch and the switch with the motor.
+2. Wire the different components together, the plug in with the switch, and the switch with the motor.
 3. Set up the pipeline system between the motor and the two bins, the one under the shredder and the one that will leave the building.
 
 ![SystemOverview](https://user-images.githubusercontent.com/94560718/143473394-fbb5a34b-46f3-4d57-92eb-e5e778e8988c.png)
