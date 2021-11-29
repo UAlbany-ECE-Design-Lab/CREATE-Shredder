@@ -48,7 +48,9 @@ For the moment we are not using any software dependencies, later on we might inc
 
 ![SystemOverview](https://user-images.githubusercontent.com/94560718/143473394-fbb5a34b-46f3-4d57-92eb-e5e778e8988c.png)
 
-![image-20211126-202445-623c1d84](https://user-images.githubusercontent.com/94560718/143723107-80bd5f9a-d21e-4792-90ea-0aa1bde5e641.jpeg)
+![System - Front](https://user-images.githubusercontent.com/94560718/143942950-51944412-afff-4cc4-b684-ce5811069d16.jpg)
+![System - Rear](https://user-images.githubusercontent.com/94560718/143942965-f8466e03-7335-4348-9013-0650754949d0.jpg)
+
 
 ## Instruction Video: 
 
