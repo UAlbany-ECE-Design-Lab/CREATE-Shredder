@@ -41,7 +41,6 @@ full and then easily remove it to get the shredded paper out.
 ## Software Dependencies
 To connect the different components of the system, we use 3D parts modeled by us in a customized way for the different needs of the project. We have used 3 parts. The first one connects the motor with the pipe that goes to the gaylord. The second one connects the box where the paper falls with the pipe that connects to the motor. The third one is on the other side of the tubing and connects to the motor.
 
-Translated with www.DeepL.com/Translator (free version)
 
 ## Steps Required to Replicate your Work. List the steps required to replicate your work
 1. Wire the motor to be in low voltage mode by connecting T7 and T1 in line 1, T8 and T2 in line 2 and T9 and T3 in line 3.
