@@ -46,6 +46,9 @@ full and then easily remove it to get the shredded paper out.
 
 ## Software Dependencies
 To connect the different components of the system, we use 3D parts modeled by us in a customized way for the different needs of the project. We have used 3 parts. The first one connects the motor with the pipe that goes to the gaylord. The second one connects the box where the paper falls with the pipe that connects to the motor. The third one is on the other side of the tubing and connects to the motor.
+![BinDuct](https://user-images.githubusercontent.com/94560718/163873222-da74872e-cdb2-490a-86ac-9fd4a936264e.png)
+![BlowerExhaust](https://user-images.githubusercontent.com/94560718/163873234-dfd520a2-f528-47ee-96e3-68abcd4577fa.png)
+![IntakeAdapter](https://user-images.githubusercontent.com/94560718/163873263-e1335e83-d56b-4719-9f3d-972f73b306db.png)
 
 
 ## Steps Required to Replicate your Work. List the steps required to replicate your work
@@ -54,9 +57,7 @@ To connect the different components of the system, we use 3D parts modeled by us
 3. Set up the pipeline system between the motor and the two bins, the one under the shredder and the one that will leave the building.
 
 ![SystemOverview](https://user-images.githubusercontent.com/94560718/143473394-fbb5a34b-46f3-4d57-92eb-e5e778e8988c.png)
-
-![System - Front](https://user-images.githubusercontent.com/94560718/143942950-51944412-afff-4cc4-b684-ce5811069d16.jpg)
-![System - Rear](https://user-images.githubusercontent.com/94560718/143942965-f8466e03-7335-4348-9013-0650754949d0.jpg)
+![SystemOverall](https://user-images.githubusercontent.com/94560718/163873174-1d83a52c-510d-4f2e-bbed-906fbe2e6e8c.gif)
 
 
 ## Instruction Video: 
