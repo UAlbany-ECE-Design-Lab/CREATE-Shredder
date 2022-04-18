@@ -37,7 +37,10 @@ full and then easily remove it to get the shredded paper out.
 ![plugIn](https://user-images.githubusercontent.com/94560718/143480612-138028ed-a5f9-469e-87b5-fd4f03b79a28.jpg)
 
 
-6.To connect the box, the blower and the gaylord we used 4 inch semi-rigid galvanized steel pipes, that avoid clogging problems that you can find with materials like plastic.
+6.We built a box, the inside has the shape of a rectangular frustum that works as a funnel for the paper to go through and avoid any possible clogging.
+
+
+7.To connect the box, the blower and the gaylord we used 4 inch semi-rigid galvanized steel pipes, that avoid clogging problems that you can find with materials like plastic.
 ![Pipes](https://user-images.githubusercontent.com/94560718/163867243-9fde9999-bca2-4b5b-8ec2-2041a2872517.jpg)
 
 
