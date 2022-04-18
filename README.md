@@ -30,7 +30,7 @@ full and then easily remove it to get the shredded paper out.
 4.We use a 14/3 NM-B WG Romex Wire/Cable due to the fact that we are using a 3 phase motor/blower. This ware has three conductors and a neutral wire. The function of neutral wire in 3 phase 4 wire system is to serve as a return wire for general domestic supply system. The neutral is paired to each of the single phase load. The potential of the neutral point can be very well understood from the following Figure. The total neutral current is the vector sum of the three line currents. Under balanced conditions the vector sum is zero and therefore, the neutral current is zero
 
 ![purpose-of-neutral-wire-in-three-pahse](https://user-images.githubusercontent.com/94560718/143479185-fb4dca6e-e3ff-4286-8036-4c1b1f70b899.png)
-![Wiring](https://user-images.githubusercontent.com/94560718/143479221-ade46860-dc00-447b-940e-9b7b327516f5.jpg)
+![Wiring](https://user-images.githubusercontent.com/94560718/163881609-8d80ee17-9bdf-434c-a574-61f29651e1f2.png)
 
 5.The plug in is adapted to the needs of the system and is a 20A, 3 pahse and 4 wiring black and white plug in with a capacity of 125/250V.
 
@@ -41,7 +41,7 @@ full and then easily remove it to get the shredded paper out.
 ![ShredderBin](https://user-images.githubusercontent.com/94560718/163880118-df845cec-e915-4e36-b5fa-2b5915311a3d.png)
 
 7.To connect the box, the blower and the gaylord we used 4 inch semi-rigid galvanized steel pipes, that avoid clogging problems that you can find with materials like plastic.
-![Pipes](https://user-images.githubusercontent.com/94560718/163867243-9fde9999-bca2-4b5b-8ec2-2041a2872517.jpg)
+![Pipe](https://user-images.githubusercontent.com/94560718/163881463-32b8bf22-822d-4d9a-aebf-9746d3f08fbe.png)
 
 
 ## Software Dependencies
