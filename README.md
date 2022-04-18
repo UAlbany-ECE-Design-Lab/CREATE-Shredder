@@ -54,4 +54,4 @@ For the moment we are not using any software dependencies, later on we might inc
 
 ## Instruction Video: 
 
-https://www.youtube.com/watch?v=HbU7jTBxdIE
+https://youtu.be/Mo4UCGreJuw
