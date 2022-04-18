@@ -57,7 +57,7 @@ To connect the different components of the system, we use 3D parts modeled by us
 3. Set up the pipeline system between the motor and the two bins, the one under the shredder and the one that will leave the building.
 
 ![SystemOverview](https://user-images.githubusercontent.com/94560718/143473394-fbb5a34b-46f3-4d57-92eb-e5e778e8988c.png)
-![SystemOverall](https://user-images.githubusercontent.com/94560718/163873174-1d83a52c-510d-4f2e-bbed-906fbe2e6e8c.gif)
+![SystemOverall](https://user-images.githubusercontent.com/94560718/163873548-901ed9d4-019b-432a-9101-4d818abcad89.gif)
 
 
 ## Instruction Video: 
