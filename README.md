@@ -38,6 +38,7 @@ full and then easily remove it to get the shredded paper out.
 
 
 6.To connect the box, the blower and the gaylord we used 4 inch galvanized steel pipes.
+![Pipes](https://user-images.githubusercontent.com/94560718/163867243-9fde9999-bca2-4b5b-8ec2-2041a2872517.jpg)
 
 
 ## Software Dependencies
