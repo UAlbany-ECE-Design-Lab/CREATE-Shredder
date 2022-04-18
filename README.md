@@ -37,6 +37,8 @@ full and then easily remove it to get the shredded paper out.
 ![plugIn](https://user-images.githubusercontent.com/94560718/143480612-138028ed-a5f9-469e-87b5-fd4f03b79a28.jpg)
 
 
+6.To connect the box, the blower and the gaylord we used 4 inch galvanized steel pipes.
+
 
 ## Software Dependencies
 To connect the different components of the system, we use 3D parts modeled by us in a customized way for the different needs of the project. We have used 3 parts. The first one connects the motor with the pipe that goes to the gaylord. The second one connects the box where the paper falls with the pipe that connects to the motor. The third one is on the other side of the tubing and connects to the motor.
