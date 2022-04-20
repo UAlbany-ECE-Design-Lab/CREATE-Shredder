@@ -2,6 +2,9 @@
 
 This ReadMe file uses Markdown formating.  Helpful cheat sheet is available here: 	[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
+
+![Team](https://user-images.githubusercontent.com/94560718/164289236-90a527d4-2aa9-42d7-9fff-ca56f6ed70c2.jpg)
+
 ## Hardware Dependencies
 This project is very hardware oriented, and once we describe each item it will show how intuitive the hole system is.
 
@@ -59,7 +62,7 @@ To connect the different components of the system, we use 3D parts modeled by us
 ![SystemOverview](https://user-images.githubusercontent.com/94560718/143473394-fbb5a34b-46f3-4d57-92eb-e5e778e8988c.png)
 ![SystemOverall](https://user-images.githubusercontent.com/94560718/163873548-901ed9d4-019b-432a-9101-4d818abcad89.gif)
 ![Mike](https://user-images.githubusercontent.com/94560718/164289228-d9871e10-2cf4-409b-8032-addff02074b6.jpg)
-![Team](https://user-images.githubusercontent.com/94560718/164289236-90a527d4-2aa9-42d7-9fff-ca56f6ed70c2.jpg)
+
 
 
 ## Instruction Video: 
