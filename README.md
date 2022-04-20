@@ -3,6 +3,10 @@
 This ReadMe file uses Markdown formating.  Helpful cheat sheet is available here: 	[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 
+## Team Members
+Joseph Salgado
+Michael George
+Guillermo Esteban Mijancos
 ![Team](https://user-images.githubusercontent.com/94560718/164289236-90a527d4-2aa9-42d7-9fff-ca56f6ed70c2.jpg)
 
 ## Hardware Dependencies
